@@ -1,11 +1,5 @@
 import Image from "next/image";
 import { Inter } from "next/font/google";
-import { faDice } from "@fortawesome/free-solid-svg-icons";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-
-export function DiceIcon() {
-  return <FontAwesomeIcon size="xs" icon={faDice} />;
-}
 
 const inter = Inter({ subsets: ["latin"] });
 
