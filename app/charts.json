@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "image": "/charts/astro.png",
+    "person": "Gimli, son of Gloin",
+    "bio": "a really big deal",
+    "birthdate": "January 2nd 1999",
+    "birthplace": "Rome, Italy",
+    "avatar": "/person.jpg"
+  },
+  {
+    "id": 2,
+    "image": "/charts/clipart.png",
+    "person": "Gimli, son of Gloin",
+    "bio": "a really big deal",
+    "birthdate": "January 2nd 1999",
+    "birthplace": "Rome, Italy",
+    "avatar": "/person.jpg"
+  },
+  {
+    "id": 3,
+    "image": "/charts/icon.png",
+    "person": "Gimli, son of Gloin",
+    "bio": "a really big deal",
+    "birthdate": "January 2nd 1999",
+    "birthplace": "Rome, Italy",
+    "avatar": "/person.jpg"
+  },
+  {
+    "id": 4,
+    "image": "/charts/innerstar.png",
+    "person": "Gimli, son of Gloin",
+    "bio": "a really big deal",
+    "birthdate": "January 2nd 1999",
+    "birthplace": "Rome, Italy",
+    "avatar": "/person.jpg"
+  },
+  {
+    "id": 5,
+    "image": "/charts/stella.png",
+    "person": "Gimli, son of Gloin",
+    "bio": "a really big deal",
+    "birthdate": "January 2nd 1999",
+    "birthplace": "Rome, Italy",
+    "avatar": "/person.jpg"
+  }
+]
