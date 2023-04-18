@@ -1,5 +1,5 @@
 import "./globals.css";
-import Header from "./components/Header";
+import Nav from "./components/Nav";
 
 export const metadata = {
   title: "Blink Moment",
@@ -14,7 +14,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className="pt-16 overflow-hidden h-screen">
-        <Header />
+        <Nav />
         {children}
       </body>
     </html>
