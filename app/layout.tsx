@@ -13,7 +13,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className="pt-16 overflow-hidden h-screen">
+      <body className="pt-16">
         <Nav />
         {children}
       </body>

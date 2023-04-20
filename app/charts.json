@@ -1,47 +1,38 @@
 [
   {
     "id": 1,
-    "image": "/charts/astro.png",
-    "person": "Gimli, son of Gloin",
-    "bio": "a really big deal",
-    "birthdate": "January 2nd 1999",
-    "birthplace": "Rome, Italy",
-    "avatar": "/person.jpg"
+    "image": "/charts/hub.png",
+    "person": "Hubbard, L Ron",
+    "bio": "L. Ron Hubbard, in full Lafayette Ronald Hubbard, (born March 13, 1911, Tilden, Nebraska, U.S.—died January 24, 1986, San Luis Obispo, California), American novelist and founder of the Church of Scientology\n\nHubbard grew up in Helena, Montana, and studied at George Washington University in Washington, D.C. In the 1930s and ’40s he published short stories and novels in a variety of genres, including horror and science fiction. After serving in the navy in World War II, he published Dianetics (1950), which detailed his theories of the human mind. He eventually moved away from Dianetics’ focus on the mind to a more religious approach to the human condition, which he called Scientology. After founding the Church of Scientology in 1954, Hubbard struggled to gain recognition of it as a legitimate religion and was often at odds with tax authorities and former members who accused the church of fraud and harassment. He lived many years on a yacht and remained in seclusion for his last six years.",
+    "birthdate": "March 13, 1911",
+    "birthplace": "Tilden, Nebraska",
+    "avatar": "/photos/hub.png"
   },
   {
     "id": 2,
-    "image": "/charts/clipart.png",
-    "person": "Gimli, son of Gloin",
-    "bio": "a really big deal",
-    "birthdate": "January 2nd 1999",
-    "birthplace": "Rome, Italy",
-    "avatar": "/person.jpg"
+    "image": "/charts/charles.png",
+    "person": "Manson, Charles",
+    "bio": "Charles Manson, (born November 12, 1934, Cincinnati, Ohio, U.S.—died November 19, 2017, Kern county, California), American criminal and cult leader whose followers carried out several notorious murders in the late 1960s. Their crimes inspired the best-selling book Helter Skelter (1974). See also Tate murders.\n\nManson was born to a 16-year-old girl and a man he would never know. After his mother was imprisoned for armed robbery, he lived with an aunt and uncle in West Virginia. Beginning at age nine, he spent much of his life in juvenile reformatories or in prison for crimes that included petty larceny, armed robbery, burglary, and auto theft. Following his release from prison in 1967, Manson moved to San Francisco, where he attracted a small but devoted group of followers from among the city’s bohemian youth culture. By 1968 he had become the leader of the “Family,” a communal religious cult dedicated to studying and implementing his eccentric religious teachings, which were drawn from science fiction as well as the occult and fringe psychology. He preached the coming of an apocalyptic race war that would devastate the United States and leave the Family in a position of dominant power. Manson’s hold over his followers was graphically illustrated in 1969, when the Family carried out several murders on Manson’s orders. The most famous victim was actress Sharon Tate, wife of film director Roman Polanski, who was killed in her Los Angeles home along with three guests. The ensuing trial of Manson and his followers in 1970 attracted national attention. In 1971 Manson was sentenced to death, but, following the abolition of capital punishment in California in 1972, his sentence was commuted to life in prison. He became eligible for parole in 1978 but was denied then as well as in numerous subsequent hearings.",
+    "birthdate": "November 12, 1934",
+    "birthplace": "Cincinnati, Ohio",
+    "avatar": "/photos/charles.png"
   },
   {
     "id": 3,
-    "image": "/charts/icon.png",
-    "person": "Gimli, son of Gloin",
-    "bio": "a really big deal",
-    "birthdate": "January 2nd 1999",
-    "birthplace": "Rome, Italy",
-    "avatar": "/person.jpg"
+    "image": "/charts/bobby.png",
+    "person": "Fischer, Robert James",
+    "bio": "American chess grand master, a child prodigy who began learning chess at age 6 and began competing in chess tournaments at age 10. He won his first Class A championship at age 14 in 1957 and went on later that year to win the 1957-58 US Championship. He became the World Chess Champ by defeating Russia's Boris Spassky on September 2, 1972 in the midst of the Cold War. After his win, chess rose to the level of competitive sports in the United States and chess teachers’ became dramatically busier. By the end of his life, Fischer had set several records; he was the youngest U.S. master and the youngest international grand master. He had won eight U.S. chess championships, invented a clock used in chess, and produced two books.",
+    "birthdate": "March 9, 1943",
+    "birthplace": "Chicago, Illinois",
+    "avatar": "/photos/bobby.png"
   },
   {
     "id": 4,
-    "image": "/charts/innerstar.png",
-    "person": "Gimli, son of Gloin",
-    "bio": "a really big deal",
-    "birthdate": "January 2nd 1999",
-    "birthplace": "Rome, Italy",
-    "avatar": "/person.jpg"
-  },
-  {
-    "id": 5,
-    "image": "/charts/stella.png",
-    "person": "Gimli, son of Gloin",
-    "bio": "a really big deal",
-    "birthdate": "January 2nd 1999",
-    "birthplace": "Rome, Italy",
-    "avatar": "/person.jpg"
+    "image": "/charts/kinglouis.png",
+    "person": "King of France, Louis XVI",
+    "bio": "French royalty, a member of the Bourbon family, called Louis the Martyr. The grandson of Louis XV, he was heir to the throne from the time he was age 11 and his education was gravely neglected. He enjoyed hunting but was shy and reserved in his public role. He lacked polish, was weak in character and mentally dull. He was despised at court and considered politically ignorant. Though his intentions were good, he was more interested in hunting than in public affairs\n\nHe married Marie Antoinette in 1770 and four years later, acquired the throne upon his grandfather's death, 5/10/1774. Their life style was extravagant and they ruled a corrupt court, more involved in social and political intrigues than in sound government. When the French Revolution began, Louis pretended to sympathize but actually, influenced by his wife, he opposed it. He was forced to flee to the Tuileries palace in Paris in October 1789 when radicals seized control of the government.\n\nThey were virtual prisoners for the following three years. In August 1792, rioters seized the Tuileries and murdered the Swiss guard. The National Convention deposed the king and declared France a Republic.\n\nLouis was charged with treason in January 1793 and sent to the guillotine in Paris 1/21/1793, 10:20 AM LMT. In perhaps his most noble hour, he left the prison at 9:00 AM, walking to the guillotine with a firm step. He spoke to the people, I die innocent. Any further words were lost in the noise and clamor; they tied him down and put him to the blade.",
+    "birthdate": "August 23, 1754",
+    "birthplace": "Versailles, France",
+    "avatar": "/photos/kinglouis.png"
   }
 ]
